@@ -1,0 +1,5 @@
+Variable: Donde guardar algo para despues usarlo
+Strings: Caracteres entre comillas
+Funciones (argumentos, return): Objetos que contiene un argumento o variable que sólo toma valor cuando se invoca la función y retorna un resultado de acuerdo a lo que se pida  
+Declaraciones(if): condición para verdadero o falso
+Valores booleanos(true, false): dato qur tiene valor de verdadero o falso

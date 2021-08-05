@@ -1,0 +1,4 @@
+for:permite hacer bucles o repeticiones de una acción
+&&:lógica. Y: Sólo da verdadero cuando ambas variables son verdaderas,caso contrario es falso
+||:lógica. O: Sólo es falso cuando ambos son falsos, de lo contrario es verdadero
+!: Símbolo para negación o decir que algo es distinto

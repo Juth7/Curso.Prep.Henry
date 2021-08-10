@@ -1,0 +1,1 @@
+Arrays: Se llaman arreglos las listas de datos de diversos tipos, elementos a los cuales se acceden en el orden que se encuentran, y que mantienen las propiedades de los datos que contienen.

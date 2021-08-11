@@ -1,0 +1,5 @@
+Objetos:Contenedores de datos que pueden tener valores de cualquier tipo de dato, e incluso otros objetos. (Strings, Numeros, Booleanos, matricesz funciones, etc.). Un objeto es una coleccion de datos
+Propiedades: La asociacion entre una clave y un valor. Define las caracteristicas del objeto
+Métodos:Son funciones que se asignan como propiedad de un objeto. 
+Bucle for…in:Bucles que iteran con las propiedades de un objeto, funcionan de manera similar al bucle for de los arrays
+Notación de puntos vs notación de corchetes: Son las formas de acceder a los valores en los objetos, llamando a su nombre y a la clave. Mayormente los corchetes se utilizan para las variables.

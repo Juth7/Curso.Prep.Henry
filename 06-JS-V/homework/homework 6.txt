@@ -1,0 +1,2 @@
+Prototype: Modo en que los objetos creados con los constructores de clase heredan sus propiedades.
+Constructors (de Clases):Son funciones que permiten construir objetos de clase. Comienzan con mayuscula. Persona como constructor de clase para identificar la plantilla del objeto que se creará.
